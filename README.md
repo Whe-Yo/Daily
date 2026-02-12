@@ -1,7 +1,3 @@
----
-
-## ✨ 관심 주제
-
 - 3D Gesture Generation
 - Human-Computer Interaction AI
 - Generative AI (Pose-Guided Image Synthesis)
@@ -17,10 +13,3 @@
  - 물리 혹은 맥락을 이해하는 AI (ex. World Model, Transformer VAE)
  - 노이즈 엔지니어링
 
----
-
-## 🔍 앞으로 추가할 것들 (예정)
-
-
-
----
